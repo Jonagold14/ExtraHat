@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Blow me.
+=======
+Blow me.
+>>>>>>> refs/remotes/origin/master
