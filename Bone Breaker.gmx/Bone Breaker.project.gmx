@@ -8,11 +8,12 @@
   <sprites name="sprites">
     <sprite>sprites\sprPaddle</sprite>
     <sprite>sprites\sprBall</sprite>
-    <sprite>sprites\sprite4</sprite>
     <sprite>sprites\sprWall</sprite>
     <sprite>sprites\sprBrick</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\bkgOne</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\objPaddle</object>
