@@ -13,7 +13,12 @@
     <TextureGroup0>0</TextureGroup0>
   </TextureGroups>
   <For3D>0</For3D>
+<<<<<<< HEAD
   <width>0</width>
   <height>0</height>
+=======
+  <width>768</width>
+  <height>576</height>
+>>>>>>> origin/master
   <data>images\background0.png</data>
 </background>
