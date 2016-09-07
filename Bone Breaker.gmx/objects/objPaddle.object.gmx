@@ -53,6 +53,7 @@ spd = 12;
             <string>//Movement
 right = keyboard_check(vk_right)
 left = keyboard_check(vk_left)
+space = keyboard_check(vk_space)
 
 if(right)
 {
@@ -61,6 +62,12 @@ if(right)
 if(left)
 {
     x -= spd
+}
+
+
+if(space)
+{
+    room_restart();
 }
 </string>
           </argument>

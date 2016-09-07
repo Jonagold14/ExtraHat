@@ -12,13 +12,16 @@
     <sprite>sprites\sprWall</sprite>
     <sprite>sprites\sprBrick</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\background0</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\objPaddle</object>
     <object>objects\objBall</object>
     <object>objects\objWall</object>
     <object>objects\objBrick</object>
+    <object>objects\objFloor</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\roomOne</room>
