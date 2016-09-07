@@ -8,6 +8,7 @@
   <sprites name="sprites">
     <sprite>sprites\sprPaddle</sprite>
     <sprite>sprites\sprBall</sprite>
+    <sprite>sprites\sprite4</sprite>
     <sprite>sprites\sprWall</sprite>
     <sprite>sprites\sprBrick</sprite>
   </sprites>
