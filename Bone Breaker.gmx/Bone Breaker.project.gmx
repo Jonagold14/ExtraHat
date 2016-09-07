@@ -19,7 +19,6 @@
     <object>objects\objBall</object>
     <object>objects\objWall</object>
     <object>objects\objBrick</object>
-    <object>objects\objFloor</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\roomOne</room>
